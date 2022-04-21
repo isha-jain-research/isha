@@ -1,0 +1,11 @@
+name: "Isha Jain New"
+output_dir: "."
+navbar:
+  title: "Isha Jain New"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Isha"
+      href: ishajain.html
