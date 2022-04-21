@@ -4,4 +4,5 @@ title: "My Website"
 
 Hello, Website!
 
-This is Isha's second website.
+This is Isha's second website. 
+We're going to be doing fun things!
